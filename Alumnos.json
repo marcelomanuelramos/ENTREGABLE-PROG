@@ -1,0 +1,241 @@
+[
+  {
+    "nombre": "Marcelo",
+    "apellido": "Ramos",
+    "edad": "4",
+    "materiasMatriculadas": [],
+    "id": "c44fab",
+    "promedioNotas": null
+  },
+  {
+    "nombre": "Maximo",
+    "apellido": "Waslet",
+    "edad": "5",
+    "materiasMatriculadas": [],
+    "id": "f0bc05",
+    "promedioNotas": null
+  },
+  {
+    "nombre": "gabriel",
+    "apellido": "ramos",
+    "edad": "4",
+    "materiasMatriculadas": [],
+    "id": "37e455",
+    "promedioNotas": null
+  },
+  {
+    "nombre": "Marcelo",
+    "apellido": "Ramos",
+    "edad": "4",
+    "materiasMatriculadas": [],
+    "id": "198ecb",
+    "promedioNotas": null
+  },
+  {
+    "nombre": "leonel",
+    "apellido": "messi",
+    "edad": "45",
+    "materiasMatriculadas": [],
+    "id": "3f0bfa",
+    "promedioNotas": null
+  },
+  {
+    "nombre": "Cristian",
+    "apellido": "Lagos",
+    "edad": "34",
+    "materiasMatriculadas": [
+      {
+        "materia": {
+          "nombre": "Electricidad",
+          "id": "1eb07f"
+        },
+        "nota": 8
+      }
+    ],
+    "id": "1def37",
+    "promedioNotas": 8
+  },
+  {
+    "nombre": "Roberto",
+    "apellido": "Parassole",
+    "edad": "78",
+    "materiasMatriculadas": [
+      {
+        "materia": {
+          "nombre": "Electricidad",
+          "id": "1eb07f"
+        },
+        "nota": 5
+      }
+    ],
+    "id": "701595",
+    "promedioNotas": 5
+  },
+  {
+    "nombre": "robertino",
+    "apellido": "juarez",
+    "edad": "3",
+    "materiasMatriculadas": [],
+    "id": "9ce064",
+    "promedioNotas": null
+  },
+  {
+    "nombre": "luis",
+    "apellido": "ocampos",
+    "edad": "6",
+    "materiasMatriculadas": [
+      {
+        "materia": {
+          "nombre": "Neumatica",
+          "id": "ed07e3"
+        },
+        "nota": 4
+      }
+    ],
+    "id": "df3972",
+    "promedioNotas": 4
+  },
+  {
+    "nombre": "franco",
+    "apellido": "zambon",
+    "edad": "4",
+    "materiasMatriculadas": [
+      {
+        "materia": {
+          "nombre": "Mecanica",
+          "id": "ae967c"
+        },
+        "nota": 9
+      },
+      {
+        "materia": {
+          "nombre": "Fundicion",
+          "id": "10995d"
+        },
+        "nota": 8
+      },
+      {
+        "materia": {
+          "nombre": "Carpinteria",
+          "id": "06d645"
+        },
+        "nota": 4
+      }
+    ],
+    "id": "c20290",
+    "promedioNotas": 7
+  },
+  {
+    "nombre": "carlos",
+    "apellido": "fernandez",
+    "edad": "7",
+    "materiasMatriculadas": [
+      {
+        "materia": {
+          "nombre": "Electricidad",
+          "id": "1eb07f"
+        },
+        "nota": 8
+      },
+      {
+        "materia": {
+          "nombre": "Neumatica",
+          "id": "ed07e3"
+        },
+        "nota": 6
+      },
+      {
+        "materia": {
+          "nombre": "Mecanica",
+          "id": "ae967c"
+        },
+        "nota": 7
+      },
+      {
+        "materia": {
+          "nombre": "Fundicion",
+          "id": "10995d"
+        },
+        "nota": 8
+      },
+      {
+        "materia": {
+          "nombre": "Carpinteria",
+          "id": "06d645"
+        },
+        "nota": 7
+      }
+    ],
+    "id": "c556cd",
+    "promedioNotas": 7.2
+  },
+  {
+    "nombre": "Agustin",
+    "apellido": "iocca",
+    "edad": "43",
+    "materiasMatriculadas": [
+      {
+        "materia": {
+          "nombre": "Neumatica",
+          "id": "ed07e3"
+        },
+        "nota": 8
+      }
+    ],
+    "id": "621b5f",
+    "promedioNotas": 8
+  },
+  {
+    "nombre": "Daniel",
+    "apellido": "Del Giorgio",
+    "edad": "20",
+    "materiasMatriculadas": [
+      {
+        "materia": {
+          "nombre": "Neumatica",
+          "id": "ed07e3"
+        },
+        "nota": 7
+      },
+      {
+        "materia": {
+          "nombre": "Mecanica",
+          "id": "ae967c"
+        },
+        "nota": 8
+      },
+      {
+        "materia": {
+          "nombre": "Carpinteria",
+          "id": "06d645"
+        },
+        "nota": 3
+      },
+      {
+        "materia": {
+          "nombre": "Fundicion",
+          "id": "10995d"
+        },
+        "nota": 10
+      }
+    ],
+    "id": "39672f",
+    "promedioNotas": 7
+  },
+  {
+    "nombre": "gonzalo",
+    "apellido": "zapata",
+    "edad": "48",
+    "materiasMatriculadas": [
+      {
+        "materia": {
+          "nombre": "Carpinteria",
+          "id": "06d645"
+        },
+        "nota": 8
+      }
+    ],
+    "id": "37e0a8",
+    "promedioNotas": 8
+  }
+]
